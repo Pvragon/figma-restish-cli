@@ -1,0 +1,5 @@
+# Don't commit real config with tokens
+apis.json
+restish.json
+.env
+env
